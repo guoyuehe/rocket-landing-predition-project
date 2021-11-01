@@ -1,2 +1,2 @@
 # the-very-first-project
-## Editing the file
+## This project is aimed to predict whether the first stage of SpaceX rocket will land successfully.
